@@ -1,16 +1,122 @@
-# 💫 About Me:
-👋 Hi, I’m Aditya<br><br>I’m a B.Tech student (2023–2027) who chose not to hide behind theory. I build real products, break them, fix them, and repeat.<br><br>💻 Full-stack developer (MERN) with a strong backend bias<br><br>🧠 Solid foundation in DSA focused on logic, not brute memorization<br><br>🔧 Comfortable working with APIs, databases, authentication, and system flow<br><br>🚀 Actively targeting startup internships now and Big Tech internships<br><br>What I’ve actually built<br><br>Wanderlust – a stay-booking platform (auth, listings, bookings, real flow)<br><br>AI Virtual Assistant – frontend + backend with real interaction, not demos<br><br>What I’m working on<br><br>Strengthening backend confidence (databases, API design, edge cases)<br><br>Writing clean, maintainable code instead of “just works” code<br><br>Preparing for high-bar internships, not shortcut roles<br>
+<div align="center">
 
+# Hey, I'm Aditya 👋
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat-square&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=developer7620&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=developer7620&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=developer7620&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Backend Engineer · IIIT Kottayam '27 · Building systems that don't break in production**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-bhimanwar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/adityabhimanwar123)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adityabhimanwar123@gmail.com)
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 👨‍💻 About Me
+
+I'm a backend-focused engineer who cares about **correctness over cleverness** — atomic operations, timing-safe comparisons, zero-downtime migrations, resilient queues. Not just "it works."
+
+- 🎓 **B.Tech ECE @ IIIT Kottayam** (2023–2027) | CGPA: **8.65 / 10**
+- 💼 **Ex-SWE Intern @ Granville Tech** — sole backend intern on a live EdTech platform, shipped **30+ REST APIs** across 6 domains directly to production under CTO review
+- 🧠 **328+ LeetCode problems** | Contest Rating: **1641** | Top 15% globally
+- 🎯 Actively targeting **backend / SDE internships** at product companies & startups
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+**Databases & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+**Testing & Tools**
+
+![Jest](https://img.shields.io/badge/Jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 [VaultShare](https://github.com/developer7620/vaultshare) — Secure File Sharing Platform
+
+A production-grade file sharing system built with security and concurrency correctness as first-class concerns.
+
+| Decision | Why It Matters |
+|----------|----------------|
+| HMAC-SHA256 signed uploads direct to Cloudinary | Zero memory pressure & DoS surface on backend |
+| MongoDB atomic `findOneAndUpdate` with `$inc` | Race condition–proof download limits (same pattern as ticket-sale systems) |
+| Dummy hash bcrypt comparison (~250ms always) | Eliminates timing side-channel — attackers can't infer file state |
+| `CloudinaryProvider` / `S3Provider` abstraction | Zero-downtime storage migration via single env change |
+| Dead-letter queue + exponential backoff (cap: 60min) | Resilient failed deletion handling |
+| 47-test Jest suite with concurrency regression test | Asserts exactly 3/10 simultaneous requests succeed on a limit-3 file |
+
+`Node.js` `Express.js` `MongoDB` `Cloudinary` `bcrypt` `Jest` `React.js` `node-cron`
+
+---
+
+### 🎙 [AI Virtual Assistant](https://github.com/developer7620/AI_VIRTUAL_ASSISTANT) — Voice-Based Full Stack Web App
+
+Full-stack voice assistant supporting **15+ commands** with real-time speech recognition and synthesis.
+
+- 🎤 Web Speech API for STT/TTS — real interaction, not a demo
+- 🔐 JWT-based auth with protected routes and stateless session management
+- ⚛️ Global state via React Context API; all command routing on the backend
+
+`React.js` `Node.js` `Express.js` `Tailwind CSS` `Web Speech API` `JWT`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=developer7620&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=developer7620&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developer7620&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Top 15% globally** on LeetCode — 328+ problems solved, Contest Rating 1641
+- 🚀 **Sole backend intern** at Granville Tech — 30+ production API endpoints shipped under CTO review
+- 📐 **JEE Mains qualified** — top 3% out of 1.2M+ candidates (Rank ~38,000)
+
+---
+
+<div align="center">
+
+*"Make it work. Make it right. Make it fast — in that order."*
+
+</div>
