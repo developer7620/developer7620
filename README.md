@@ -97,11 +97,9 @@ Full-stack voice assistant supporting **15+ commands** with real-time speech rec
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=developer7620&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=developer7620&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=developer7620&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developer7620&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developer7620&theme=dark&hide_border=false&layout=compact&langs_count=8)
 
 </div>
 
