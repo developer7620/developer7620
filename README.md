@@ -4,7 +4,7 @@
 
 **Backend Engineer · IIIT Kottayam '27 · Building systems that don't break in production**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/aditya-bhimanwar](https://www.linkedin.com/in/aditya-bhimanwar-7209072a2/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-bhimanwar-7209072a2/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/adityabhimanwar123)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adityabhimanwar123@gmail.com)
 
@@ -90,7 +90,6 @@ Full-stack voice assistant supporting **15+ commands** with real-time speech rec
 - ⚛️ Global state via React Context API; all command routing on the backend
 
 `React.js` `Node.js` `Express.js` `Tailwind CSS` `Web Speech API` `JWT`
-
 
 ---
 
