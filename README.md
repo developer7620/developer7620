@@ -95,9 +95,8 @@ Full-stack voice assistant supporting **15+ commands** with real-time speech rec
 
 ## 🏆 Achievements
 
-- 🥇 **Top 15% globally** on LeetCode — 328+ problems solved, Contest Rating 1641
+- 🥇 **Top 15% globally** on LeetCode — 400+ problems solved, Contest Rating 1641
 - 🚀 **Sole backend intern** at Granville Tech — 30+ production API endpoints shipped under CTO review
-- 📐 **JEE Mains qualified** — top 3% out of 1.2M+ candidates (Rank ~38,000)
 
 ---
 
