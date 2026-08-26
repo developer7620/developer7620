@@ -18,7 +18,7 @@ I'm a backend-focused engineer who cares about **correctness over cleverness** �
 
 - 🎓 **B.Tech ECE @ IIIT Kottayam** (2023–2027) | CGPA: **8.65 / 10**
 - 💼 **Ex-SWE Intern @ Granville Tech** — sole backend intern on a live EdTech platform, shipped **30+ REST APIs** across 6 domains directly to production under CTO review
-- 🧠 **328+ LeetCode problems** | Contest Rating: **1641** | Top 15% globally
+- 🧠 **400+ LeetCode problems** | Contest Rating: **1641** | Top 15% globally
 - 🎯 Actively targeting **backend / SDE internships** at product companies & startups
 
 ---
